@@ -18,6 +18,23 @@ I'm Mihir.🧑‍💻
 - 📊🤖 I learned Python Libraries, Jupyter Notebook, Google Colab, and PySpark in the University of Limerick Master's Modules on Machine Learning, Data Mining, and Applied Big Data
 - 🧬🐹 I learned Golang and understood Threads, concurrency, and channels in the University of Limerick's Module on Concurrency and Parallelism
 
+## Skills
+#### Programming Languages
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,python,go,java)](https://skillicons.dev)
+
+#### Backend Technologies
+[![My Skills](https://skillicons.dev/icons?i=spring,docker)](https://skillicons.dev)
+
+#### Frontend Technologies
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular)](https://skillicons.dev)
+
+#### Databases and Tools
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongodb)](https://skillicons.dev)
+
+#### Other tools & Technologies
+[![My Skills](https://skillicons.dev/icons?i=git,github,maven,eclipse,vscode,postman,tensorflow,latex)](https://skillicons.dev)
+
 ## 🤝 Socials
 <p align='center'>
   <a href='https://www.linkedin.com/in/mihir-sontake/'><img src='https://www.iconfinder.com/icons/5296501/download/svg/128' style='height:36px;width:36px;'/></a>&nbsp;&nbsp;
