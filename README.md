@@ -16,9 +16,3 @@
 
 #### Other tools & Technologies
 [![My Skills](https://skillicons.dev/icons?i=git,github,maven,eclipse,vscode,postman,tensorflow,latex)](https://skillicons.dev)
-
-## 🤝 Socials
-<p align='center'>
-  <a href='https://www.linkedin.com/in/mihir-sontake/'><img src='https://www.iconfinder.com/icons/5296501/download/svg/128' style='height:36px;width:36px;'/></a>&nbsp;&nbsp;
-  <a href='https://www.instagram.com/mihirsontake/'><img src='https://www.iconfinder.com/icons/5296765/download/svg/128' style='height:36px;width:36px;' /></a>&nbsp;&nbsp;
-</p>
